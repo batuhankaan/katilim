@@ -1,0 +1,12 @@
+{
+  "name": "katilim",
+  "displayName": "katilim",
+  "expo": {
+    "name": "katilim",
+    "slug": "katilim",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
